@@ -1,3 +1,5 @@
+# AX's QOL
+
 AX's QOL (Quality of Life) mod pack has been designed to **optimize** game performance and **improve** the overall gaming experience. This pack includes a selection of mods that not only optimize performance but also offer practical improvements to enrich your gameplay.
 
 In addition to optimization mods, you will also find a number of mods that add **quality of life** (QoL) features to make the game more **comfortable** and **enjoyable**. These mods **can improve** the user interface, simplify complex game mechanics, or add additional conveniences such as a more organized inventory or customizable quick shortcuts.
