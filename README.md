@@ -6,7 +6,7 @@ In addition to optimization mods, you will also find a number of mods that add *
 
 AX's QOL package offers a perfect combination of optimized performance and game improvement features. Each mod has been carefully selected and configured to ensure a balance between **smooth** performance and an **enjoyable** gaming experience.
 
-Almost all mods can be found here on modrinth!
+Almost all mods can be found on modrinth!
 
 ---
 <details>
